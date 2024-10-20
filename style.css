@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    text-align: left;
+    
+}
+
+.leader {
+    width: 850px;
+    border: 4px solid gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+}
+
+.Title-lead {
+    background-color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.sub-tag {
+    background-color: orange;
+    font-size: medium;
+    color: blue;
+    text-align: center;
+}
+
+.sub-head {
+    color: blue;
+    text-align: center;
+}
+
+.clone {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icon-tag {
+    color: red;
+}
+
+.question {
+    background-color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration: solid;
+}
+
+#image-visible[id="image-visible"] {
+    width: 200px;
+    height: 100px;
+}
+
+#Top[id="Top"] {
+    color: white;
+    background-color: red;
+    font-size: 14px;
+    padding: 6px 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: absolute;
+    top: -15px;
+        left: -25px
+}
+
+.related-post {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.meaning {
+    text-align: left;
+    text-transform: initial;
+}
+.mention {
+    text-align: left;
+}
+.refrace {
+    text-align: center;
+    color: blue;
+}
+
+.team-head {
+    text-align: center;
+    background-color: orange;
+}
+
+#reloading{
+    text-align: left;
+}
+
+.related-post:hover {
+    image-orientation: inherit;
+}
+
+.tom {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.last {
+    background-color: orange;
+    text-align: center;
+    font-style: italic;
+}
